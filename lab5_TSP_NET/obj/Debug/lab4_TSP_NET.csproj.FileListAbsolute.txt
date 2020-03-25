@@ -1,0 +1,14 @@
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\lab4_TSP_NET.exe.config
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\lab4_TSP_NET.exe
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\lab4_TSP_NET.pdb
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\EntityFramework.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\EntityFramework.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.csprojAssemblyReference.cache
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.Form1.resources
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.Properties.Resources.resources
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.csproj.GenerateResource.cache
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.csproj.CopyComplete
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.exe
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.pdb
